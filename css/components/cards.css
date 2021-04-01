@@ -1,0 +1,27 @@
+.card-description {
+  padding: 20px 0;
+}
+
+.card-description p {
+  font-weight: lighter;
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+.card {
+  background-color: white;
+  box-shadow: 5px 5px 10px rgba(0,0,0,.2);
+  width: 20%;
+  height: 300px;
+  padding: 10px;
+}
+
+.card img {
+  width: 100%;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}

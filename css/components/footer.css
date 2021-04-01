@@ -1,0 +1,30 @@
+.footer {
+  background-color: #544848;
+  text-align: center;
+  padding: 40px 0;
+  margin-top: 50px;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.footer-inline {
+  padding-left: 0px;
+  list-style: none; 
+}
+
+.fab {
+  font-size: 30px;
+  color: #fcd1d1;
+  transition-duration: 0.2s;
+}
+
+.fab:hover {
+  color: #d3e0dc;
+}

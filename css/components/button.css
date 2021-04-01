@@ -1,0 +1,32 @@
+.btn {
+  color: #544848;
+  font-weight: bold;
+  background-color: #fcd1d1;
+  border-radius: 5px;
+  padding: 15px 30px;
+  display: inline-block;
+  transition-duration: 0.4s;
+  box-shadow: 1px 3px 10px rgba(0,0,0,.5);
+}
+
+.btn:hover {
+  color: #0c5151;
+  background-color: #d3e0dc;
+}
+
+.btn-yours {
+  display: inline-block;
+  color: #0b8282;
+  font-weight: bold;
+  border-radius: 15px;
+  padding: 12px 25px;
+  border: 3px solid #0b8282;
+  transition-duration: 0.2s;
+  box-shadow: 1px 3px 10px rgba(0,0,0,.1);
+}
+
+.btn-yours:hover {
+  border-color: #0a6666;
+  color: #0a6666;
+  background-color: white;
+}
